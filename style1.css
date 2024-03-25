@@ -1,0 +1,52 @@
+*{
+    color:aquamarine;
+}
+/* this will apply for whole PAGE  */
+    h1,h2{
+    
+    background-color: blue;
+}
+#heading2{
+    color: tomato;
+}
+button{
+    color: rgb(14, 61, 19);
+    background-color: yellowgreen;
+    color: #ff0f0a;
+    /* this hexa decimal for color representation in css .....combination of 6 digit in which ff---> red ....0f-->blue & 0a--->green  */
+}
+body{
+   background-color: black;
+
+}
+p{
+    color:greenyellow; 
+    background-color: rgb(41, 8, 111);
+   block-size: auto;
+   text-align: center;
+}
+h3{
+    color: blueviolet;
+}
+* {
+    color: #ff0f0a;
+}
+* {
+    background-color: blueviolet;
+}
+/* }this is universal selector and is least preference it mean that is ..it will only apply for element whopse background color is not specified  */
+
+#h5{
+    background-color: yellow;
+    color: blue;
+}
+#hello,#h4{ /*this style apply for all element whose id 
+    ="hello" ..it can contain more the one element */
+    background-color: tomato;
+    color: black;
+}
+#check p{
+    background-color: black;
+    color: white;
+    text-align: right;
+}

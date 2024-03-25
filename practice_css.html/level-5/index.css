@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding:1px;
+}
+nav{
+    margin: 2px;
+    background-color:yellowgreen;
+
+}
+nav a{
+    text-decoration: none;
+    margin: 60px;
+    font-size: 40px;
+}
+
+#second{
+    height: 50px; width: 100px;
+    background-color: rgb(10, 126, 87);
+    margin-top: 50px; text-align: center;
+    border: 5px solid rgb(12, 1, 12);
+    border-radius: 20px;
+   
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    margin: 5px;
+    
+}
+#container{
+
+    background-color: ;
+    margin: 10px;
+}
